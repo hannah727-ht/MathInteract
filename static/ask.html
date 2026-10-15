@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ask a question · MathInteract</title>
+  <link rel="icon" href="/favicon.svg">
+  <link rel="stylesheet" href="/vendor/katex/katex.min.css">
+  <link rel="stylesheet" href="/css/app.css">
+  <script defer src="/vendor/katex/katex.min.js"></script>
+  <script defer src="/vendor/katex/contrib/auto-render.min.js"></script>
+</head>
+<body>
+  <header id="site-header" data-page="qa"></header>
+  <main class="container">
+    <section class="page-head">
+      <h1>Ask a question</h1>
+      <p>Explain what you tried. Use $…$ for formulas, and add a photo of your work if it helps.</p>
+    </section>
+    <form class="card ask-form" id="ask-form" novalidate>
+      <div class="field">
+        <label for="ask-title">Title</label>
+        <input id="ask-title" name="title" maxlength="200" placeholder="e.g. How do I factor $x^2 - 5x + 6$?" required>
+      </div>
+      <div class="field field-narrow">
+        <label for="ask-topic">Topic</label>
+        <select id="ask-topic" name="topic"></select>
+      </div>
+      <div id="ask-composer"></div>
+      <div class="form-actions">
+        <button class="btn btn-primary" type="submit">Post question</button>
+        <a class="btn" href="/qa.html">Cancel</a>
+      </div>
+      <p class="form-error" role="alert"></p>
+    </form>
+  </main>
+  <script type="module" src="/js/ask.js"></script>
+</body>
+</html>

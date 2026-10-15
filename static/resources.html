@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Resources · MathInteract</title>
+  <link rel="icon" href="/favicon.svg">
+  <link rel="stylesheet" href="/css/app.css">
+</head>
+<body>
+  <header id="site-header" data-page="resources"></header>
+  <main class="container">
+    <section class="page-head">
+      <h1 id="section-title"></h1>
+      <p id="section-blurb"></p>
+    </section>
+
+    <nav class="contest-tabs" id="contest-tabs" aria-label="Contests"></nav>
+
+    <div class="resources-layout">
+      <div>
+        <div class="toolbar">
+          <div class="kind-filter" id="kind-filter" aria-label="Filter by type"></div>
+          <button class="btn btn-primary btn-sm" id="upload-toggle" type="button" hidden>Upload</button>
+        </div>
+
+        <form class="upload-card" id="upload-form" novalidate hidden>
+          <h2>Upload a file</h2>
+          <div class="upload-grid">
+            <div class="field">
+              <label for="up-contest">Contest / course</label>
+              <select id="up-contest" name="contest" required></select>
+            </div>
+            <div class="field">
+              <label for="up-kind">Type</label>
+              <select id="up-kind" name="kind" required></select>
+            </div>
+            <div class="field">
+              <label for="up-year">Year</label>
+              <input id="up-year" name="year" inputmode="numeric" maxlength="4" placeholder="e.g. 2024 (optional)">
+            </div>
+            <div class="field">
+              <label for="up-title">Title</label>
+              <input id="up-title" name="title" maxlength="200" placeholder="Leave empty to use the file name">
+            </div>
+          </div>
+          <div class="field">
+            <label for="up-file">File</label>
+            <input id="up-file" name="file" type="file" accept=".pdf,.png,.jpg,.jpeg,.webp,.doc,.docx" required>
+            <span class="hint" id="up-hint"></span>
+          </div>
+          <div class="form-actions">
+            <button class="btn btn-primary" type="submit">Upload</button>
+            <button class="btn" type="button" id="upload-cancel">Cancel</button>
+          </div>
+          <p class="form-error" role="alert"></p>
+        </form>
+
+        <p class="form-note page-note" id="page-note" role="status"></p>
+        <div id="resource-list" aria-live="polite"></div>
+      </div>
+
+      <aside class="side-box">
+        <h2>Official sites</h2>
+        <ul class="link-list" id="official-links"></ul>
+        <p class="source-note" id="source-note"></p>
+        <div class="sync-box" id="sync-box" hidden>
+          <h2>Sync with official sites</h2>
+          <ul class="sync-list" id="sync-list"></ul>
+          <button class="btn btn-sm" id="sync-now" type="button" hidden>Refresh now</button>
+          <p class="form-error" id="sync-error" role="alert"></p>
+        </div>
+      </aside>
+    </div>
+  </main>
+  <script type="module" src="/js/resources.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sign up · MathInteract</title>
+  <link rel="icon" href="/favicon.svg">
+  <link rel="stylesheet" href="/css/app.css">
+</head>
+<body>
+  <header id="site-header" data-page="signup"></header>
+  <main class="container">
+    <div class="form-card">
+      <form id="signup-form" novalidate>
+        <h1>Create your account</h1>
+        <p class="lead">Just pick a username and a password.</p>
+        <div class="field">
+          <label for="username">Username</label>
+          <input id="username" name="username" autocomplete="username" required minlength="3" maxlength="20">
+          <span class="hint">3–20 characters: letters, digits, _ or -. Shown on your posts.</span>
+        </div>
+        <div class="field">
+          <label for="password">Password</label>
+          <input id="password" name="password" type="password" autocomplete="new-password" required minlength="8">
+          <span class="hint">At least 8 characters.</span>
+        </div>
+        <div class="field">
+          <label for="password2">Confirm password</label>
+          <input id="password2" name="password2" type="password" autocomplete="new-password" required>
+        </div>
+        <button class="btn btn-primary btn-block" type="submit">Sign up</button>
+        <p class="form-error" role="alert"></p>
+        <p class="form-foot">Already have an account? <a href="/login.html" data-keep-next>Log in</a></p>
+      </form>
+    </div>
+  </main>
+  <script type="module" src="/js/auth.js"></script>
+</body>
+</html>

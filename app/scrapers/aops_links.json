@@ -1,0 +1,3303 @@
+{
+ "about": "AoPS Wiki pages for US contests, checked against the AoPS Wiki API on 2026-10-01. Since October 2026 AoPS shows a Cloudflare challenge to every non-browser client, so the site no longer contacts AoPS; newer contests are added from AoPS's standard page names (see app/scrapers/aops.py).",
+ "checked_on": "2026-10-01",
+ "links": [
+  {
+   "contest": "aime",
+   "year": 1983,
+   "title": "1983 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1983_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1983,
+   "title": "1983 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1983_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1984,
+   "title": "1984 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1984_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1984,
+   "title": "1984 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1984_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1985,
+   "title": "1985 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1985_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1985,
+   "title": "1985 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1985_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1986,
+   "title": "1986 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1986_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1986,
+   "title": "1986 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1986_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1987,
+   "title": "1987 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1987_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1987,
+   "title": "1987 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1987_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1988,
+   "title": "1988 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1988_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1988,
+   "title": "1988 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1988_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1989,
+   "title": "1989 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1989_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1989,
+   "title": "1989 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1989_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1990,
+   "title": "1990 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1990_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1990,
+   "title": "1990 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1990_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1991,
+   "title": "1991 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1991_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1991,
+   "title": "1991 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1991_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1992,
+   "title": "1992 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1992_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1992,
+   "title": "1992 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1992_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1993,
+   "title": "1993 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1993_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1993,
+   "title": "1993 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1993_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1994,
+   "title": "1994 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1994_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1994,
+   "title": "1994 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1994_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1995,
+   "title": "1995 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1995_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1995,
+   "title": "1995 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1995_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1996,
+   "title": "1996 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1996_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1996,
+   "title": "1996 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1996_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1997,
+   "title": "1997 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1997_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1997,
+   "title": "1997 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1997_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1998,
+   "title": "1998 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1998_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1998,
+   "title": "1998 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1998_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 1999,
+   "title": "1999 AIME Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1999_AIME_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 1999,
+   "title": "1999 AIME Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1999_AIME_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2000,
+   "title": "2000 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2000_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2000,
+   "title": "2000 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2000_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2000,
+   "title": "2000 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2000_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2000,
+   "title": "2000 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2000_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2001,
+   "title": "2001 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2001_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2001,
+   "title": "2001 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2001_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2001,
+   "title": "2001 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2001_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2001,
+   "title": "2001 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2001_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2002,
+   "title": "2002 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2002,
+   "title": "2002 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2002,
+   "title": "2002 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2002,
+   "title": "2002 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2003,
+   "title": "2003 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2003,
+   "title": "2003 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2003,
+   "title": "2003 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2003,
+   "title": "2003 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2004,
+   "title": "2004 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2004,
+   "title": "2004 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2004,
+   "title": "2004 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2004,
+   "title": "2004 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2005,
+   "title": "2005 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2005,
+   "title": "2005 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2005,
+   "title": "2005 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2005,
+   "title": "2005 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2006,
+   "title": "2006 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2006,
+   "title": "2006 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2006,
+   "title": "2006 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2006,
+   "title": "2006 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2007,
+   "title": "2007 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2007,
+   "title": "2007 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2007,
+   "title": "2007 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2007,
+   "title": "2007 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2008,
+   "title": "2008 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2008,
+   "title": "2008 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2008,
+   "title": "2008 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2008,
+   "title": "2008 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2009,
+   "title": "2009 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2009,
+   "title": "2009 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2009,
+   "title": "2009 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2009,
+   "title": "2009 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2010,
+   "title": "2010 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2010,
+   "title": "2010 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2010,
+   "title": "2010 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2010,
+   "title": "2010 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2011,
+   "title": "2011 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2011,
+   "title": "2011 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2011,
+   "title": "2011 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2011,
+   "title": "2011 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2012,
+   "title": "2012 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2012,
+   "title": "2012 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2012,
+   "title": "2012 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2012,
+   "title": "2012 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2013,
+   "title": "2013 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2013,
+   "title": "2013 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2013,
+   "title": "2013 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2013,
+   "title": "2013 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2014,
+   "title": "2014 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2014,
+   "title": "2014 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2014,
+   "title": "2014 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2014,
+   "title": "2014 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2015,
+   "title": "2015 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2015,
+   "title": "2015 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2015,
+   "title": "2015 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2015,
+   "title": "2015 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2016,
+   "title": "2016 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2016,
+   "title": "2016 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2016,
+   "title": "2016 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2016,
+   "title": "2016 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2017,
+   "title": "2017 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2017,
+   "title": "2017 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2017,
+   "title": "2017 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2017,
+   "title": "2017 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2018,
+   "title": "2018 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2018,
+   "title": "2018 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2018,
+   "title": "2018 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2018,
+   "title": "2018 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2019,
+   "title": "2019 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2019,
+   "title": "2019 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2019,
+   "title": "2019 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2019,
+   "title": "2019 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2020,
+   "title": "2020 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2020,
+   "title": "2020 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2020,
+   "title": "2020 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2020,
+   "title": "2020 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2021,
+   "title": "2021 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2021,
+   "title": "2021 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2021,
+   "title": "2021 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2021,
+   "title": "2021 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2022,
+   "title": "2022 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2022,
+   "title": "2022 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2022,
+   "title": "2022 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2022,
+   "title": "2022 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2023,
+   "title": "2023 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2023,
+   "title": "2023 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2023,
+   "title": "2023 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2023,
+   "title": "2023 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2024,
+   "title": "2024 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2024,
+   "title": "2024 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2024,
+   "title": "2024 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2024,
+   "title": "2024 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2025,
+   "title": "2025 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2025,
+   "title": "2025 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2025,
+   "title": "2025 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2025,
+   "title": "2025 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2026,
+   "title": "2026 AIME I Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2026_AIME_I_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2026,
+   "title": "2026 AIME I Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2026_AIME_I_Problems"
+  },
+  {
+   "contest": "aime",
+   "year": 2026,
+   "title": "2026 AIME II Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2026_AIME_II_Answer_Key"
+  },
+  {
+   "contest": "aime",
+   "year": 2026,
+   "title": "2026 AIME II Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2026_AIME_II_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2000,
+   "title": "2000 AMC 10 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2000_AMC_10_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2000,
+   "title": "2000 AMC 10 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2000_AMC_10_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2001,
+   "title": "2001 AMC 10 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2001_AMC_10_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2001,
+   "title": "2001 AMC 10 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2001_AMC_10_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2002,
+   "title": "2002 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2002,
+   "title": "2002 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2002,
+   "title": "2002 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2002,
+   "title": "2002 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2002,
+   "title": "2002 AMC 10P Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_10P_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2002,
+   "title": "2002 AMC 10P Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_10P_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2003,
+   "title": "2003 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2003,
+   "title": "2003 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2003,
+   "title": "2003 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2003,
+   "title": "2003 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2004,
+   "title": "2004 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2004,
+   "title": "2004 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2004,
+   "title": "2004 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2004,
+   "title": "2004 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2005,
+   "title": "2005 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2005,
+   "title": "2005 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2005,
+   "title": "2005 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2005,
+   "title": "2005 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2006,
+   "title": "2006 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2006,
+   "title": "2006 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2006,
+   "title": "2006 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2006,
+   "title": "2006 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2007,
+   "title": "2007 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2007,
+   "title": "2007 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2007,
+   "title": "2007 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2007,
+   "title": "2007 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2008,
+   "title": "2008 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2008,
+   "title": "2008 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2008,
+   "title": "2008 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2008,
+   "title": "2008 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2009,
+   "title": "2009 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2009,
+   "title": "2009 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2009,
+   "title": "2009 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2009,
+   "title": "2009 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2010,
+   "title": "2010 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2010,
+   "title": "2010 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2010,
+   "title": "2010 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2010,
+   "title": "2010 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2011,
+   "title": "2011 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2011,
+   "title": "2011 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2011,
+   "title": "2011 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2011,
+   "title": "2011 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2012,
+   "title": "2012 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2012,
+   "title": "2012 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2012,
+   "title": "2012 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2012,
+   "title": "2012 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2013,
+   "title": "2013 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2013,
+   "title": "2013 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2013,
+   "title": "2013 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2013,
+   "title": "2013 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2014,
+   "title": "2014 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2014,
+   "title": "2014 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2014,
+   "title": "2014 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2014,
+   "title": "2014 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2015,
+   "title": "2015 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2015,
+   "title": "2015 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2015,
+   "title": "2015 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2015,
+   "title": "2015 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2016,
+   "title": "2016 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2016,
+   "title": "2016 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2016,
+   "title": "2016 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2016,
+   "title": "2016 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2017,
+   "title": "2017 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2017,
+   "title": "2017 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2017,
+   "title": "2017 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2017,
+   "title": "2017 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2018,
+   "title": "2018 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2018,
+   "title": "2018 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2018,
+   "title": "2018 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2018,
+   "title": "2018 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2019,
+   "title": "2019 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2019,
+   "title": "2019 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2019,
+   "title": "2019 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2019,
+   "title": "2019 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2020,
+   "title": "2020 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2020,
+   "title": "2020 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2020,
+   "title": "2020 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2020,
+   "title": "2020 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2021,
+   "title": "2021 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2021,
+   "title": "2021 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2021,
+   "title": "2021 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2021,
+   "title": "2021 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2022,
+   "title": "2022 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2022,
+   "title": "2022 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2022,
+   "title": "2022 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2022,
+   "title": "2022 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2023,
+   "title": "2023 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2023,
+   "title": "2023 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2023,
+   "title": "2023 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2023,
+   "title": "2023 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2024,
+   "title": "2024 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2024,
+   "title": "2024 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2024,
+   "title": "2024 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2024,
+   "title": "2024 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2025,
+   "title": "2025 AMC 10A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AMC_10A_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2025,
+   "title": "2025 AMC 10A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AMC_10A_Problems"
+  },
+  {
+   "contest": "amc10",
+   "year": 2025,
+   "title": "2025 AMC 10B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AMC_10B_Answer_Key"
+  },
+  {
+   "contest": "amc10",
+   "year": 2025,
+   "title": "2025 AMC 10B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AMC_10B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2000,
+   "title": "2000 AMC 12 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2000_AMC_12_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2000,
+   "title": "2000 AMC 12 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2000_AMC_12_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2001,
+   "title": "2001 AMC 12 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2001_AMC_12_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2001,
+   "title": "2001 AMC 12 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2001_AMC_12_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2002,
+   "title": "2002 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2002,
+   "title": "2002 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2002,
+   "title": "2002 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2002,
+   "title": "2002 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2002,
+   "title": "2002 AMC 12P Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_12P_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2002,
+   "title": "2002 AMC 12P Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_12P_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2003,
+   "title": "2003 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2003,
+   "title": "2003 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2003,
+   "title": "2003 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2003,
+   "title": "2003 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2004,
+   "title": "2004 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2004,
+   "title": "2004 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2004,
+   "title": "2004 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2004,
+   "title": "2004 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2005,
+   "title": "2005 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2005,
+   "title": "2005 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2005,
+   "title": "2005 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2005,
+   "title": "2005 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2006,
+   "title": "2006 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2006,
+   "title": "2006 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2006,
+   "title": "2006 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2006,
+   "title": "2006 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2007,
+   "title": "2007 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2007,
+   "title": "2007 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2007,
+   "title": "2007 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2007,
+   "title": "2007 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2008,
+   "title": "2008 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2008,
+   "title": "2008 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2008,
+   "title": "2008 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2008,
+   "title": "2008 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2009,
+   "title": "2009 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2009,
+   "title": "2009 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2009,
+   "title": "2009 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2009,
+   "title": "2009 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2010,
+   "title": "2010 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2010,
+   "title": "2010 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2010,
+   "title": "2010 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2010,
+   "title": "2010 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2011,
+   "title": "2011 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2011,
+   "title": "2011 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2011,
+   "title": "2011 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2011,
+   "title": "2011 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2012,
+   "title": "2012 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2012,
+   "title": "2012 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2012,
+   "title": "2012 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2012,
+   "title": "2012 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2013,
+   "title": "2013 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2013,
+   "title": "2013 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2013,
+   "title": "2013 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2013,
+   "title": "2013 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2014,
+   "title": "2014 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2014,
+   "title": "2014 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2014,
+   "title": "2014 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2014,
+   "title": "2014 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2015,
+   "title": "2015 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2015,
+   "title": "2015 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2015,
+   "title": "2015 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2015,
+   "title": "2015 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2016,
+   "title": "2016 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2016,
+   "title": "2016 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2016,
+   "title": "2016 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2016,
+   "title": "2016 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2017,
+   "title": "2017 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2017,
+   "title": "2017 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2017,
+   "title": "2017 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2017,
+   "title": "2017 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2018,
+   "title": "2018 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2018,
+   "title": "2018 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2018,
+   "title": "2018 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2018,
+   "title": "2018 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2019,
+   "title": "2019 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2019,
+   "title": "2019 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2019,
+   "title": "2019 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2019,
+   "title": "2019 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2020,
+   "title": "2020 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2020,
+   "title": "2020 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2020,
+   "title": "2020 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2020,
+   "title": "2020 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2021,
+   "title": "2021 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2021,
+   "title": "2021 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2021,
+   "title": "2021 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2021,
+   "title": "2021 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2022,
+   "title": "2022 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2022,
+   "title": "2022 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2022,
+   "title": "2022 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2022,
+   "title": "2022 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2023,
+   "title": "2023 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2023,
+   "title": "2023 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2023,
+   "title": "2023 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2023,
+   "title": "2023 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2024,
+   "title": "2024 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2024,
+   "title": "2024 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2024,
+   "title": "2024 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2024,
+   "title": "2024 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2025,
+   "title": "2025 AMC 12A Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AMC_12A_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2025,
+   "title": "2025 AMC 12A Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AMC_12A_Problems"
+  },
+  {
+   "contest": "amc12",
+   "year": 2025,
+   "title": "2025 AMC 12B Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AMC_12B_Answer_Key"
+  },
+  {
+   "contest": "amc12",
+   "year": 2025,
+   "title": "2025 AMC 12B Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AMC_12B_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 1999,
+   "title": "1999 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1999_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 1999,
+   "title": "1999 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1999_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2000,
+   "title": "2000 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2000_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2000,
+   "title": "2000 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2000_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2001,
+   "title": "2001 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2001_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2001,
+   "title": "2001 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2001_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2002,
+   "title": "2002 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2002,
+   "title": "2002 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2003,
+   "title": "2003 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2003,
+   "title": "2003 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2004,
+   "title": "2004 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2004,
+   "title": "2004 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2005,
+   "title": "2005 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2005,
+   "title": "2005 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2006,
+   "title": "2006 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2006,
+   "title": "2006 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2007,
+   "title": "2007 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2007,
+   "title": "2007 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2008,
+   "title": "2008 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2008,
+   "title": "2008 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2009,
+   "title": "2009 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2009,
+   "title": "2009 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2010,
+   "title": "2010 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2010,
+   "title": "2010 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2011,
+   "title": "2011 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2011,
+   "title": "2011 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2012,
+   "title": "2012 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2012,
+   "title": "2012 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2013,
+   "title": "2013 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2013,
+   "title": "2013 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2014,
+   "title": "2014 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2014,
+   "title": "2014 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2015,
+   "title": "2015 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2015,
+   "title": "2015 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2016,
+   "title": "2016 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2016,
+   "title": "2016 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2017,
+   "title": "2017 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2017,
+   "title": "2017 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2018,
+   "title": "2018 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2018,
+   "title": "2018 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2019,
+   "title": "2019 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2019,
+   "title": "2019 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2020,
+   "title": "2020 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2020,
+   "title": "2020 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2022,
+   "title": "2022 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2022,
+   "title": "2022 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2023,
+   "title": "2023 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2023,
+   "title": "2023 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2024,
+   "title": "2024 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2024,
+   "title": "2024 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2025,
+   "title": "2025 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2025,
+   "title": "2025 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_AMC_8_Problems"
+  },
+  {
+   "contest": "amc8",
+   "year": 2026,
+   "title": "2026 AMC 8 Answer Key",
+   "kind": "answers",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2026_AMC_8_Answer_Key"
+  },
+  {
+   "contest": "amc8",
+   "year": 2026,
+   "title": "2026 AMC 8 Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2026_AMC_8_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2010,
+   "title": "2010 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2011,
+   "title": "2011 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2012,
+   "title": "2012 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2013,
+   "title": "2013 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2014,
+   "title": "2014 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2015,
+   "title": "2015 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2016,
+   "title": "2016 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2017,
+   "title": "2017 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2018,
+   "title": "2018 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2019,
+   "title": "2019 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2021,
+   "title": "2021 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2022,
+   "title": "2022 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2023,
+   "title": "2023 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2024,
+   "title": "2024 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2025,
+   "title": "2025 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_USAJMO_Problems"
+  },
+  {
+   "contest": "usajmo",
+   "year": 2026,
+   "title": "2026 USAJMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2026_USAJMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1972,
+   "title": "1972 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1972_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1973,
+   "title": "1973 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1973_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1974,
+   "title": "1974 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1974_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1975,
+   "title": "1975 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1975_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1976,
+   "title": "1976 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1976_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1977,
+   "title": "1977 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1977_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1978,
+   "title": "1978 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1978_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1979,
+   "title": "1979 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1979_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1980,
+   "title": "1980 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1980_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1981,
+   "title": "1981 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1981_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1982,
+   "title": "1982 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1982_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1983,
+   "title": "1983 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1983_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1984,
+   "title": "1984 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1984_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1985,
+   "title": "1985 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1985_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1986,
+   "title": "1986 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1986_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1987,
+   "title": "1987 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1987_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1988,
+   "title": "1988 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1988_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1989,
+   "title": "1989 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1989_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1990,
+   "title": "1990 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1990_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1991,
+   "title": "1991 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1991_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1992,
+   "title": "1992 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1992_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1993,
+   "title": "1993 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1993_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1994,
+   "title": "1994 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1994_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1995,
+   "title": "1995 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1995_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1996,
+   "title": "1996 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1996_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1997,
+   "title": "1997 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1997_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1998,
+   "title": "1998 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1998_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 1999,
+   "title": "1999 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/1999_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2000,
+   "title": "2000 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2000_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2001,
+   "title": "2001 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2001_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2002,
+   "title": "2002 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2002_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2003,
+   "title": "2003 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2003_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2004,
+   "title": "2004 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2004_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2005,
+   "title": "2005 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2005_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2006,
+   "title": "2006 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2006_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2007,
+   "title": "2007 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2007_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2008,
+   "title": "2008 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2008_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2009,
+   "title": "2009 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2009_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2010,
+   "title": "2010 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2010_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2011,
+   "title": "2011 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2011_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2012,
+   "title": "2012 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2012_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2013,
+   "title": "2013 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2013_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2014,
+   "title": "2014 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2014_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2015,
+   "title": "2015 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2015_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2016,
+   "title": "2016 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2016_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2017,
+   "title": "2017 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2017_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2018,
+   "title": "2018 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2018_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2019,
+   "title": "2019 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2019_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2020,
+   "title": "2020 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2020_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2021,
+   "title": "2021 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2021_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2022,
+   "title": "2022 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2022_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2023,
+   "title": "2023 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2023_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2024,
+   "title": "2024 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2024_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2025,
+   "title": "2025 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2025_USAMO_Problems"
+  },
+  {
+   "contest": "usamo",
+   "year": 2026,
+   "title": "2026 USAMO Problems",
+   "kind": "problems",
+   "url": "https://artofproblemsolving.com/wiki/index.php/2026_USAMO_Problems"
+  }
+ ]
+}

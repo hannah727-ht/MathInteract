@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MathInteract</title>
+  <link rel="icon" href="/favicon.svg">
+  <link rel="stylesheet" href="/vendor/katex/katex.min.css">
+  <link rel="stylesheet" href="/css/app.css">
+  <script defer src="/vendor/katex/katex.min.js"></script>
+  <script defer src="/vendor/katex/contrib/auto-render.min.js"></script>
+</head>
+<body>
+  <header id="site-header" data-page="home"></header>
+  <main class="container">
+    <section class="hero">
+      <h1>Learn math together</h1>
+      <p>Past papers, a new problem every week, and a place to ask questions.</p>
+    </section>
+    <div class="entry-grid" id="entry-grid"></div>
+    <section class="home-block" id="weekly-block" hidden>
+      <h2>This week’s problem</h2>
+      <a class="card weekly-preview" id="weekly-preview" href="/weekly.html"></a>
+    </section>
+    <section class="home-block" id="questions-block" hidden>
+      <div class="home-block-head"><h2>Latest questions</h2><a href="/qa.html">See all questions →</a></div>
+      <ul class="q-list" id="latest-questions"></ul>
+    </section>
+    <section class="home-block" id="recent-block" hidden>
+      <h2>Recently added</h2>
+      <ul class="recent-list" id="recent-list"></ul>
+    </section>
+  </main>
+  <script type="module" src="/js/home.js"></script>
+</body>
+</html>

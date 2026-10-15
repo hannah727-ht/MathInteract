@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Q&amp;A · MathInteract</title>
+  <link rel="icon" href="/favicon.svg">
+  <link rel="stylesheet" href="/vendor/katex/katex.min.css">
+  <link rel="stylesheet" href="/css/app.css">
+  <script defer src="/vendor/katex/katex.min.js"></script>
+  <script defer src="/vendor/katex/contrib/auto-render.min.js"></script>
+</head>
+<body>
+  <header id="site-header" data-page="qa"></header>
+  <main class="container">
+    <section class="page-head page-head-row">
+      <div>
+        <h1>Q&amp;A</h1>
+        <p>Stuck on a problem? Ask a question, or help someone else with theirs.</p>
+      </div>
+      <a class="btn btn-primary" id="ask-button" href="/ask.html">Ask a question</a>
+    </section>
+
+    <form class="qa-toolbar" id="search-form" role="search">
+      <label class="visually-hidden" for="search">Search questions</label>
+      <input id="search" name="q" type="search" placeholder="Search questions…" autocomplete="off">
+      <div class="kind-filter" id="topic-filter" aria-label="Filter by topic"></div>
+    </form>
+
+    <div id="question-list" aria-live="polite"></div>
+    <nav class="pager" id="pager" aria-label="Pages"></nav>
+  </main>
+  <script type="module" src="/js/qa.js"></script>
+</body>
+</html>
